@@ -21,5 +21,5 @@ Python, pandas, scikit-learn, matplotlib
 Each project folder has its own README with setup and run instructions.
 
 ## Connect
-- LinkedIn: (your link)
-- GitHub: (your link)
+- LinkedIn: www.linkedin.com/in/kazim-nawab-41ba062a0
+- GitHub: https://github.com/kazimnawab
